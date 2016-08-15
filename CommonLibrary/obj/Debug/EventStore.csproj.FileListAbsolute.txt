@@ -1,0 +1,1 @@
+C:\Users\smh\Desktop\EventStoreTest\EventStore\obj\Debug\EventStore.csprojResolveAssemblyReference.cache
