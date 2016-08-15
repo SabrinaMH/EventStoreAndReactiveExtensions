@@ -1,9 +1,0 @@
-C:\Users\smh\Desktop\EventStoreTest\EventStore\bin\Debug\CommonLibrary.dll
-C:\Users\smh\Desktop\EventStoreTest\EventStore\bin\Debug\CommonLibrary.pdb
-C:\Users\smh\Desktop\EventStoreTest\EventStore\bin\Debug\EventStore.ClientAPI.dll
-C:\Users\smh\Desktop\EventStoreTest\EventStore\bin\Debug\Newtonsoft.Json.dll
-C:\Users\smh\Desktop\EventStoreTest\EventStore\bin\Debug\EventStore.ClientAPI.xml
-C:\Users\smh\Desktop\EventStoreTest\EventStore\bin\Debug\Newtonsoft.Json.xml
-C:\Users\smh\Desktop\EventStoreTest\EventStore\obj\Debug\CommonLibrary.dll
-C:\Users\smh\Desktop\EventStoreTest\EventStore\obj\Debug\CommonLibrary.pdb
-C:\Users\smh\Desktop\EventStoreTest\EventStore\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
